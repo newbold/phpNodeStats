@@ -25,7 +25,11 @@ That's it!
 
 ## Tech Notes
 
-phpNodeStats will 
+phpNodeStats will create two files in the directory where it runs (connections.txt contains the connected peer counts, and geodata.txt caches peer location data). Be sure that PHP has permission to create these files, or create them yourself and ensure that PHP has permission to write to them.
+
+If you’d like to ensure that your peer count chart is kept updated, you can call the script each minute via a cron entry like this:
+
+`* * * * * curl http://your-address-here/path/to/index.php >/dev/null 2>&1`
 
 ## Donations
 
