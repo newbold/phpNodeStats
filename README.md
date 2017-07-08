@@ -11,7 +11,7 @@ You can view an instance in action here: http://bitcoin.neatnik.net
 
 Here’s how it looks:
 
-![phpNodeStats screen](http://i.imgur.com/ZsZVbfX.png)
+![phpNodeStats screen](http://i.imgur.com/gN4aKgh.jpg)
 
 ## Installation
 
