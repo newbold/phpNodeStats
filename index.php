@@ -101,6 +101,9 @@ function version($ua) {
 	# breadwallet
 	if(strtolower(substr($ua[1], 0, strpos($ua[1], ':'))) == 'breadwallet') $one = '<span class="version breadwallet"><a href="https://breadwallet.com">breadwallet</a></span>';
 	
+	# btcwire
+	if(strtolower(substr($ua[1], 0, strpos($ua[1], ':'))) == 'btcwire') $one = '<span class="version btcwire"><a href="https://github.com/btcsuite/btcd/tree/master/wire">btcwire</a></span>';
+	
 	# Coinscope
 	if(stripos($ua[1], 'coinscope') !== false) $one = '<span class="version coinscope"><a href="http://cs.umd.edu/projects/coinscope/">Coinscope</a></span>';
 	
@@ -212,6 +215,7 @@ body {
 .bitnodes { background: #555; }
 .breadwallet { background: #ed935d; }
 .btcd { background: #415ea6; }
+.btcwire { background: #0b2f8a; }
 .classic { background: #b27428; }
 .coinscope { background: #d34f9f; }
 .core { background: #f7931a; }
