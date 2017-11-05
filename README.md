@@ -34,4 +34,4 @@ If you’d like to ensure that your average peer count is kept updated, you shou
 
 ## Donations
 
-If you feel inclined to contribute to phpNodeStat’s development, you can send a few Satoshis to 1EBKdLhTva2By8tbNZxwqTAoLQoAiA5Mky. Thanks!
+If you feel inclined to contribute to phpNodeStat’s development, you can send a few Satoshis to 3PCJtx1dgv45x42qvN57kRhhgzM74ygfVj. Thanks!
