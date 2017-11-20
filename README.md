@@ -6,9 +6,7 @@ Bitcoin node statistics for everyone!
 
 phpNodeStats is a simple web-based Bitcoin node monitor. It's provided under the [MIT](https://opensource.org/licenses/MIT) license.
 
-## Demo
-
-You can view an instance in action here: https://bitcoin.neatnik.net
+## Screenshot
 
 Here’s how it looks:
 
